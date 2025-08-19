@@ -6,7 +6,7 @@ import Reviewdetail from '../screens/reviewdetail';
 import AppHeader from '../shared/customheader';
 
 const Stack = createStackNavigator();
-
+console.log(" ===== ")
 const HomeStack = () => {
 
     return(
